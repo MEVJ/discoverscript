@@ -12,7 +12,7 @@ cd discoverscript
 npm install
 ```
 
-Add URL's to the text file , one URL per line
+Add URL's to the url.txt file , one URL per line.
 
 ```
 node index.js
